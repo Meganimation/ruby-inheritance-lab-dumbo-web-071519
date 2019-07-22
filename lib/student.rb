@@ -8,6 +8,7 @@ end
 
 
 def learn(knowledge) 
+  super 
   @knowledge = "#{knowledge"
 end
 
