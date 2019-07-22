@@ -9,7 +9,7 @@ end
 
 def learn(knowledge) 
   super 
- KNOWLEDGE 
+@knowledge << KNOWLEDGE 
 end
 
 
