@@ -9,7 +9,7 @@ def initialize
 end
 
 
-def learn(some_knowledge) 
+def learn
 
 end
 
