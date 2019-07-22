@@ -3,12 +3,13 @@ class Student < User
 
 def initialize
   super
-  @knowledge = KNOWLEDGE 
+  @knowledge = []
 end
 
 
 def learn(knowledge) 
-@knowledge 
+  
+KNOWLEDGE 
 end
 
 
