@@ -9,7 +9,7 @@ def initialize
 end
 
 
-def knowledge
+def learn
   @knowledge.map do |new|
     puts new 
     
