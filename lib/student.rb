@@ -10,9 +10,7 @@ end
 
 
 def learn(knowledge)
- super 
  knowledge
-
 end
 
 
