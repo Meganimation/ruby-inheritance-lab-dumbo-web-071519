@@ -8,8 +8,7 @@ end
 
 
 def learn(knowledge) 
-  
-KNOWLEDGE 
+@knowledge 
 end
 
 
