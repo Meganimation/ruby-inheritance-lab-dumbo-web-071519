@@ -4,14 +4,13 @@ class Student < User
   
   attr_accessor :knowledge
 
-def initialize(knowledge)
-  super(knowledge)
+def initialize
   @knowledge = []
 end
 
 
-def learn
-
+def learn(knowledge)
+ super(knowledge)
 end
 
 
