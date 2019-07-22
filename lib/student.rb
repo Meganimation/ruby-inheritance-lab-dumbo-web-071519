@@ -1,8 +1,6 @@
 
-class Student 
-  
-  attr_accessor 
-  
+class Student < User
+
   
 
 end
