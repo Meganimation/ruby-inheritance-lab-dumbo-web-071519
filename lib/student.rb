@@ -2,11 +2,11 @@
 class Student < User
   
   
-  attr_accessor :knowledge
+  attr_accessor :KNOWLEDGE
 
 def initialize
   super
-  @knowledge = []
+  @KNOWLEDGE = []
 end
 
 
