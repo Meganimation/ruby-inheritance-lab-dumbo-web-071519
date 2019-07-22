@@ -1,7 +1,7 @@
 
 class Student < User
 
-def initialize(new)
+def initialize
   @new = []
 
 end
