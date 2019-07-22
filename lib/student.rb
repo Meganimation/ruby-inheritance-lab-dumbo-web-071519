@@ -8,7 +8,7 @@ end
 
 
 def learn(knowledge) 
- 'I am learning #{knowledge}
+  @knowledge = "knowledge"
 end
 
 
