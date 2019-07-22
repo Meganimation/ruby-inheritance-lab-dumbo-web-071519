@@ -10,7 +10,7 @@ end
 
 
 def learn
-  @knowledge =  knowledge
+  puts 'hey'
 
 
 end
