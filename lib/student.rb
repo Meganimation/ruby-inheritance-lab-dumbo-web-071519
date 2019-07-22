@@ -12,7 +12,6 @@ end
 
 def learn(knowledge) 
   
-KNOWLEDGE 
 end
 
 
