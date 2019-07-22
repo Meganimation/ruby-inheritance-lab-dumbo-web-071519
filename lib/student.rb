@@ -1,8 +1,8 @@
 
 class Student < User
 
-def initialize(new)
-  super(new)
+def initialize
+  super
   @new = []
 
 end
