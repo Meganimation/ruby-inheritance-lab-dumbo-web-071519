@@ -11,7 +11,7 @@ end
 
 
 def learn(knowledge) 
-  super(knowledge)
+  super
 end
 
 
