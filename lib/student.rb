@@ -3,7 +3,7 @@ class Student < User
 
 def initialize
   super
-  @new = []
+  @knowledge = []
 
 end
 
