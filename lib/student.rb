@@ -10,11 +10,7 @@ end
 
 
 def learn
-  @knowledge.map do |new|
-    puts new 
-    
-  end
-end
+  @knowledge
 
 
 end
