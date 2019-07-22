@@ -8,7 +8,7 @@ end
 
 
 def learn(knowledge) 
-  super 
+  
 KNOWLEDGE 
 end
 
