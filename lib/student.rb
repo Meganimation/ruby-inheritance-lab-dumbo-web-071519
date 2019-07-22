@@ -9,8 +9,11 @@ def initialize
 end
 
 
-def learn(knowledge)
- super(knowledge)
+def knowledge
+  @knowledge.map do |new|
+    puts new 
+    
+  end
 end
 
 
