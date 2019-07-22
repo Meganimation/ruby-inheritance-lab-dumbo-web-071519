@@ -10,7 +10,7 @@ def initialize
 end
 
 
-def learn(knowledge) 
+def learn(some_knowledge) 
   super
 end
 
