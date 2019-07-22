@@ -9,8 +9,9 @@ def initialize
 end
 
 
-def learn
-  puts 'hey'
+def learn(knowledge)
+ super 
+ knowledge
 
 end
 
