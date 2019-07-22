@@ -1,5 +1,6 @@
 class Teacher < User
   
+  attr_accessor :knowledge
   
 
 def knowledge 
