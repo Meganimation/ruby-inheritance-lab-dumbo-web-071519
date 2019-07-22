@@ -9,7 +9,6 @@ end
 
 def learn(knowledge) 
   @knowledge = knowledge
-  
 end
 
 
